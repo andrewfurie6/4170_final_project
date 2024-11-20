@@ -1,0 +1,317 @@
+APR DRG Code,APR DRG Description
+753,Bipolar disorders
+141,Asthma
+53,Seizure
+203,Chest pain
+199,Hypertension
+139,Other pneumonia
+134,Pulmonary embolism
+463,Kidney & urinary tract infections
+251,Abdominal pain
+424,Other endocrine disorders
+41,Nervous system malignancy
+460,RENAL FAILURE
+47,Transient ischemia
+45,CVA & precerebral occlusion w infarct
+760,Other mental health disorders
+138,Bronchiolitis & RSV pneumonia
+565,False labor
+844,Partial thickness burns without skin graft
+243,Other esophageal disorders
+723,Viral illness
+750,Schizophrenia
+381,Major skin disorders
+754,Depression except major depressive disorder
+566,Other antepartum diagnoses
+204,Syncope & collapse
+140,Chronic obstructive pulmonary disease
+560,Vaginal delivery
+540,Cesarean delivery
+254,Other digestive system diagnoses
+54,Migraine & other headaches
+52,Nontraumatic stupor & coma
+58,Other disorders of nervous system
+190,Acute myocardial infarction
+136,Respiratory malignancy
+893,HIV w multiple significant HIV related conditions
+563,Preterm labor
+756,Acute anxiety & delirium states
+420,Diabetes
+44,Intracranial hemorrhage
+240,Digestive malignancy
+244,Diverticulitis & diverticulosis
+247,Intestinal obstruction
+280,Alcoholic liver disease
+241,Peptic ulcer & gastritis
+194,Heart failure
+751,Major depressive disorders & other/unspecified psychoses
+775,Alcohol abuse & dependence
+201,Cardiac arrhythmia & conduction disorders
+144,"Respiratory signs, symptoms & minor diagnoses"
+930,Multiple significant trauma w/o O.R. procedure
+133,Respiratory Failure
+131,Cystic fibrosis - pulmonary disease
+249,"Other gastroenteritis, nausa & vomiting"
+759,Eating disorders
+226,Anal procedures
+722,Fever
+55,Head trauma w coma >1 hr or hemorrhage
+758,Behavioral disorders
+843,Extensive 3rd degree or full thickness burns w/o skin graft
+173,OTHER VASCULAR PROCEDURES
+842,Burns with skin graft except extensive 3rd degree burns
+225,Appendectomy
+23,Spinal procedures
+589,Neonate bwt <500g or GA <24 weeks
+690,Acute leukemia
+564,"Abortion w/o D&C, aspiration curettage or hysterotomy"
+890,HIV w multiple major HIV related conditions
+242,Major esophageal disorders
+380,Skin ulcers
+221,Major small & large bowel procedures
+720,Septicemia & disseminated infections
+545,Ectopic pregnancy procedure
+544,"D&C, aspiration curettage or hysterotomy for obstetric diagnoses"
+757,Organic mental health disturbances
+841,Extensive 3rd degree burns w skin graft
+773,Opioid abuse & dependence
+82,Eye disorders except major infections
+224,Peritoneal adhesiolysis
+892,HIV w major HIV related condition
+73,Eye procedures except orbit
+20,Craniotomy for trauma
+175,Percutaneous coronary intervention w/o AMI
+21,Craniotomy except for trauma
+440,Kidney transplant
+956,Ungroupable
+740,Mental illness diagnosis w O.R. procedure
+137,Major respiratory infections & inflammations
+70,Orbital procedures
+531,Female reproductive system infections
+40,Spinal disorders & injuries
+362,Mastectomy procedures
+283,Other disorders of the liver
+135,Major chest & respiratory trauma
+461,Kidney & urinary tract malignancy
+207,Other circulatory system diagnoses
+755,Adjustment disorders & neuroses except depressive diagnoses
+774,Cocaine abuse & dependence
+422,Hypovolemia & related electrolyte disorders
+113,Infections of upper respiratory tract
+383,Cellulitis & other skin infections
+861,"Signs, symptoms & other factors influencing health status"
+282,Disorders of pancreas except malignancy
+111,Vertigo & other labyrinth disorders
+425,Electrolyte disorders except hypovolemia related
+710,Infectious & parasitic diseases including HIV w O.R. procedure
+253,Other & unspecified gastrointestinal hemorrhage
+351,Other musculoskeletal system & connective tissue diagnoses
+640,"Neonate birthwt >2499g, normal newborn or neonate w other problem"
+228,"Inguinal, femoral & umbilical hernia procedures"
+513,Uterine & adnexa procedures for non-malignancy except leiomyoma
+197,Peripheral & other vascular disorders
+317,"Tendon, muscle & other soft tissue procedures"
+466,"Malfunction, reaction, complic of genitourinary device or proc"
+694,Lymphatic & other malignancies & neoplasms of uncertain behavior
+812,Poisoning of medicinal agents
+721,"Post-operative, post-traumatic, other device infections"
+626,"Neonate bwt 2000-2499g, normal newborn or neonate w other problem"
+263,Laparoscopic cholecystectomy
+385,"Other skin, subcutaneous tissue & breast disorders"
+223,Other small & large bowel procedures
+206,"Malfunction,reaction,complication of cardiac/vasc device or procedure"
+220,"Major stomach, esophageal & duodenal procedures"
+541,Vaginal delivery w sterilization &/or D&C
+581,"Neonate, transferred < 5 days old, born here"
+279,Hepatic coma & other major acute liver disorders
+633,Neonate birthwt >2499g w major anomaly
+262,Cholecystectomy except laparoscopic
+519,Uterine & adnexa procedures for leiomyoma
+114,Dental & oral diseases & injuries
+347,"Other back & neck disorders, fractures & injuries"
+816,Toxic effects of non-medicinal substances
+308,Hip and femur fracture repair
+446,Urethral & transurethral procedures
+143,"Other respiratory diagnoses except signs, symptoms & minor diagnoses"
+130,Respiratory system diagnosis w ventilator support 96+ hours
+301,Hip joint replacement
+663,Other anemia & disorders of blood & blood-forming organs
+341,Fracture of pelvis or dislocation of hip
+561,Postpartum & post abortion diagnoses w/o procedure
+349,"Malfunction, reaction, complic of orthopedic device or procedure"
+284,Disorders of gallbladder & biliary tract
+811,Allergic reactions
+421,"Malnutrition, failure to thrive & other nutritional disorders"
+48,"Peripheral, cranial & autonomic nerve disorders"
+115,"Other ear, nose, mouth,throat & cranial/facial diagnoses"
+465,Urinary stones & acquired upper urinary tract obstruction
+198,Angina pectoris & coronary atherosclerosis
+229,Other digestive system & abdominal procedures
+530,Female reproductive system malignancy
+660,Major hematologic/immunologic diag exc sickle cell crisis & coagul
+951,Moderately extensive procedure unrelated to principal diagnosis
+26,Other nervous system & related procedures
+245,Inflammatory bowel disease
+468,"Other kidney & urinary tract diagnoses, signs & symptoms"
+314,Foot & toe procedures
+952,Nonextensive procedure unrelated to principal diagnosis
+813,Other complications of treatment
+110,"Ear, nose, mouth, throat, cranial/facial malignancies"
+950,Extensive procedure unrelated to principal diagnosis
+912,Musculoskeletal & other procedures for multiple significant trauma
+248,Major gastrointestinal & peritoneal infections
+302,Knee joint replacement
+200,Cardiac structural & valvular disorders
+711,"Post-op, post-trauma, other device infections w O.R. procedure"
+639,Neonate birthwt >2499g w other significant condition
+312,"Skin graft, except hand, for musculoskeletal & connective tissue diagnoses"
+770,"Drug & alcohol abuse or dependence, left against medical advice"
+340,Fracture of femur
+281,Malignancy of hepatobiliary system & pancreas
+384,"Contusion, open wound & other trauma to skin & subcutaneous tissue"
+724,Other infectious & parasitic diseases
+636,Neonate birthwt >2499g w congenital/perinatal infection
+580,"Neonate, transferred <5 days old, not born here"
+57,"Concussion, closed skull Fx nos,uncomplicated intracranial injury, coma < 1 hr or no coma"
+227,"Hernia procedures except inguinal, femoral & umbilical"
+344,"Osteomyelitis, septic arthritis & other musculoskeletal infections"
+316,Hand & wrist procedures
+382,Malignant breast disorders
+313,Knee & lower leg procedures except foot
+305,Amputation of lower limb except toes
+542,Vaginal delivery w complicating procedures exc sterilization &/or D&C
+342,"Fractures & dislocations except femur, pelvis & back"
+512,Uterine & adnexa procedures for non-ovarian & non-adnexal malig
+482,Transurethral prostatectomy
+24,Extracranial vascular procedures
+171,"Perm cardiac pacemaker implant w/o AMI, heart failure or shock"
+5,Tracheostomy w MV 96+ hours w/o extensive procedure
+246,Gastrointestinal vascular insufficiency
+174,Percutaneous coronary intervention w AMI
+121,Other respiratory & chest procedures
+191,Cardiac catheterization for coronary artery disease
+196,Cardiac arrest and shock
+252,"Malfunction, reaction & complication of GI device or procedure"
+346,Connective tissue disorders
+315,"Shoulder, upper arm & forearm procedures except joint replacement"
+404,"Thyroid, parathyroid & thyroglossal procedures"
+192,Cardiac catheterization for other non-coronary conditions
+177,Cardiac pacemaker & defibrillator revision except device replacement
+661,Coagulation & platelet disorders
+532,Menstrual & other female reproductive system disorders
+170,"Permanent cardiac pacemaker implant w AMI, heart failure or shock"
+662,Sickle cell anemia crisis
+169,Major abdominal vascular procedures
+43,Multiple sclerosis & other demyelinating diseases
+815,"Other injury, poisoning & toxic effect diagnoses"
+650,Splenectomy
+776,Other drug abuse & dependence
+98,"Other ear, nose, mouth & throat procedures"
+50,Non-bacterial infections of nervous system exc viral meningitis
+614,Neonate bwt 1500-1999g w or w/o other significant condition
+364,"Other skin, subcutaneous tissue & related procedures"
+514,Female reproductive system reconstructive procedures
+621,Neonate bwt 2000-2499g w major anomaly
+501,Male reproductive system diagnoses except malignancy
+441,Major bladder procedures
+752,Disorders of personality & impulse control
+205,Cardiomyopathy
+625,Neonate bwt 2000-2499g w other significant condition
+4,Tracheostomy w MV 96+ hours w extensive procedure or ECMO
+361,Skin graft for skin & subcutaneous tissue diagnoses
+791,O.R. procedure for other complications of treatment
+46,Nonspecific CVA & precerebral occlusion w/o infarct
+180,Other circulatory system procedures
+343,Musculoskeletal malignancy & pathol fracture d/t muscskel malig
+691,"Lymphoma, myeloma & non-acute leukemia"
+320,Other musculoskeletal system & connective tissue procedures
+447,"Other kidney, urinary tract & related procedures"
+193,Acute & subacute endocarditis
+681,Other O.R. procedures for lymphatic/hematopoietic/other neoplasms
+51,Viral meningitis
+42,Degenerative nervous system disorders exc mult sclerosis
+264,"Other hepatobiliary, pancreas & abdominal procedures"
+167,Other cardiothoracic & thoracic vascular procedures
+462,Nephritis & nephrosis
+443,Kidney & urinary tract procedures for nonmalignancy
+634,"Neonate, birthwt >2499g w resp dist synd/oth maj resp cond"
+483,Testes & scrotal procedures
+142,Interstitial & alveolar lung diseases
+80,Acute major eye infections
+405,"Other procedures for endocrine, nutritional & metabolic disorders"
+518,Other female reproductive system & related procedures
+860,Rehabilitation
+772,Alcohol & drug dependence w rehab or rehab/detox therapy
+442,Kidney & urinary tract procedures for malignancy
+161,Cardiac defibrillator & heart assist implant
+222,"Other stomach, esophageal & duodenal procedures"
+480,Major male pelvic procedures
+623,Neonate bwt 2000-2499g w congenital/perinatal infection
+500,"Malignancy, male reproductive system"
+484,Other male reproductive system & related procedures
+56,"Brain contusion/laceration & complicated skull Fx, coma < 1 hr or no coma"
+310,Intervertebral disc excision & decompression
+309,Other significant hip and femur surgery
+260,"Major pancreas, liver & shunt procedures"
+261,Major biliary tract procedures
+444,Renal dialysis access device procedure only
+49,Bacterial & tuberculous infections of nervous system
+862,Other aftercare & convalescence
+176,Cardiac pacemaker & defibrillator device replacement
+165,Coronary bypass w AMI or complex PDX
+162,Cardiac valve procedures w AMI or complex PDX
+321,Cervical spinal fusion & other back/neck proc exc disc excis/decomp
+163,Cardiac valve procedures w/o AMI or complex PDX
+166,Coronary bypass w/o AMI or complex PDX
+850,"Procedure w diag of rehab, aftercare or oth contact w health service"
+22,Ventricular shunt procedures
+423,Inborn errors of metabolism
+120,Major respiratory & chest procedures
+304,Dorsal & lumbar fusion proc except for curvature of back
+303,Dorsal & lumbar fusion proc for curvature of back
+546,Other O.R. proc for obstetric diagnoses except delivery diagnoses
+401,Pituitary & adrenal procedures
+680,Major O.R. procedures for lymphatic/hematopoietic/other neoplasms
+403,Procedures for obesity
+481,Penis procedures
+363,Breast procedures except mastectomy
+445,Other bladder procedures
+910,Craniotomy for multiple significant trauma
+651,Other procedures of blood & blood-forming organs
+692,Radiotherapy
+97,Tonsil & adenoid procedures
+894,HIV w one signif HIV cond or w/o signif related cond
+89,Major cranial/facial bone procedures
+517,Dilation & curettage for non-obstetric diagnoses
+160,Major cardiothoracic repair of heart anomaly
+93,Sinus & mastoid procedures
+631,Neonate birthwt >2499g w other major procedure
+611,Neonate birthwt 1500-1999g w major anomaly
+693,CHEMOTHERAPY
+622,Neonate bwt 2000-2499g w resp dist synd/oth maj resp cond
+591,Neonate birthwt 500-749g w/o major procedure
+588,Neonate bwt <1500g w major procedure
+593,Neonate birthwt 750-999g w/o major procedure
+612,Neonate bwt 1500-1999g w resp dist synd/oth maj resp cond
+607,Neonate bwt 1250-1499g w resp dist synd/oth maj resp or maj anom
+602,Neonate bwt 1000-1249g w resp dist synd/oth maj resp or maj anom
+609,Neonate bwt 1500-2499g w major procedure
+583,Neonate w ECMO
+613,Neonate birthwt 1500-1999g w congenital/perinatal infection
+863,Neonatal aftercare
+132,BPD & oth chronic respiratory diseases arising in perinatal period
+90,Major larynx & trachea procedures
+95,Cleft lip & palate repair
+92,Facial bone procedures except major cranial/facial bone procedures
+608,Neonate bwt 1250-1499g w or w/o other significant condition
+603,Neonate birthwt 1000-1249g w or w/o other significant condition
+91,Other major head & neck procedures
+911,Extensive abdominal/thoracic procedures for mult significant trauma
+6,Pancreas transplant
+511,Uterine & adnexa procedures for ovarian & adnexal malignancy
+510,"Pelvic evisceration, radical hysterectomy & other radical GYN procs"
+3,Bone marrow transplant
+2,Heart &/or lung transplant
+630,Neonate birthwt >2499g w major cardiovascular procedure
+1,Liver transplant &/or intestinal transplant
+955,Principal diagnosis invalid as discharge diagnosis
